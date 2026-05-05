@@ -1,0 +1,302 @@
+[
+    {
+      "id": 1,
+      "project": "Reinforcement Learning Agent for Supply Chain Logistics",
+      "description": "A machine learning system that utilizes reinforcement learning models to continuously optimize routing, inventory distribution, and freight management based on fluctuating real-world variables.",
+      "justification": "Domain: Logistics. Type: AI/ML system. RE Relevance: Challenges requirements engineers to define optimization metrics and success criteria for highly dynamic, non-deterministic operational environments."
+    },
+    {
+      "id": 2,
+      "project": "Ambient Intelligence Smart Home Controller",
+      "description": "An AI-driven environmental control software designed to invisibly monitor occupant behavior and automatically adjust lighting, climate, and security settings to create an optimal, responsive living space.",
+      "justification": "Domain: Consumer IoT. Type: Embedded AI software. RE Relevance: Requires balancing complex user experience goals (invisible interfaces) with strict data privacy constraints."
+    },
+    {
+      "id": 3,
+      "project": "Autonomous Navigation Engine for Agricultural Drones",
+      "description": "An artificial intelligence platform leveraging advanced spatial mapping and heuristic search algorithms to allow autonomous drones to navigate and survey dense agricultural environments without human intervention.",
+      "justification": "Domain: Agriculture. Type: Autonomous robotics platform. RE Relevance: Introduces critical safety and environmental constraints, requiring translation of unpredictable physical boundaries into software rules."
+    },
+    {
+      "id": 4,
+      "project": "Predictive Health Classifier for Wearable Devices",
+      "description": "A supervised learning application embedded in wearable tech that classifies and predicts potential cardiac anomalies based on continuous biometric data streams.",
+      "justification": "Domain: Healthcare. Type: Mobile/Embedded ML. RE Relevance: Necessitates strict medical regulatory compliance (e.g., FDA, HIPAA) and fault-tolerant, real-time processing constraints."
+    },
+    {
+      "id": 5,
+      "project": "Multilingual Machine Translation Service for Legal Documents",
+      "description": "A computational linguistics tool that provides high-accuracy, context-aware translations of complex legal contracts and regulatory frameworks across multiple languages.",
+      "justification": "Domain: Legal. Type: NLP tool. RE Relevance: Entails extremely low tolerance for error, demanding requirements that capture nuanced, domain-specific semantic rules and confidentiality."
+    },
+    {
+      "id": 6,
+      "project": "Real-Time Speech Recognition Kiosk for International Airports",
+      "description": "A natural language processing system deployed in transit hubs that processes continuous speech in real-time to provide automated, multi-lingual passenger assistance and flight data.",
+      "justification": "Domain: Travel/Aviation. Type: Real-time embedded NLP. RE Relevance: Must address diverse user acoustics in noisy physical environments while interfacing with legacy flight data architectures."
+    },
+    {
+      "id": 7,
+      "project": "Corporate Financial Report Information Extraction Engine",
+      "description": "A data mining and NLP pipeline designed to automatically parse, extract, and categorize key financial metrics and text sentiments from unstructured corporate filings and earnings reports.",
+      "justification": "Domain: Finance. Type: Data mining pipeline. RE Relevance: Involves extracting structured data from highly ambiguous unstructured text while meeting strict financial auditing standards."
+    },
+    {
+      "id": 8,
+      "project": "Automated Customer Support Question Answering Bot",
+      "description": "A sophisticated conversational agent utilizing natural language understanding and natural language generation to resolve complex customer service inquiries without human escalation.",
+      "justification": "Domain: Customer Service. Type: Conversational AI. RE Relevance: Requires complex dialogue state tracking and defining clear, safe boundary conditions for human escalation."
+    },
+    {
+      "id": 9,
+      "project": "Electronic Trading Platform for Carbon Credits",
+      "description": "A high-frequency financial application providing a secure, centralized marketplace for corporations to buy, sell, and trade carbon emission credits.",
+      "justification": "Domain: Finance/Environmental. Type: Web-based trading platform. RE Relevance: Needs ultra-low latency specifications, high transaction security, and compliance with emerging carbon trading regulations."
+    },
+    {
+      "id": 10,
+      "project": "Distributed Multimedia Platform for Remote Education",
+      "description": "An interactive, real-time application software that supports seamless video conferencing, collaborative whiteboarding, and multimedia streaming for decentralized virtual classrooms.",
+      "justification": "Domain: Education. Type: Distributed web/desktop app. RE Relevance: Must satisfy highly variable network conditions, stringent accessibility standards, and synchronous multi-user collaboration needs."
+    },
+    {
+      "id": 11,
+      "project": "Cloud-Based Content Management System for Digital Publishers",
+      "description": "A scalable computer program offering a full suite of editorial tools, media asset management, and multi-channel publication capabilities for online news organizations.",
+      "justification": "Domain: Media/Publishing. Type: Cloud web application. RE Relevance: Involves mapping complex multi-stakeholder workflows (editors, writers, admins) to granular role-based access controls."
+    },
+    {
+      "id": 12,
+      "project": "Next-Generation Graphics Rendering Software for Indie Studios",
+      "description": "A desktop publishing and graphics application that provides cost-effective, high-fidelity 3D rendering and texturing tools tailored for independent video game developers.",
+      "justification": "Domain: Entertainment/Gaming. Type: Desktop software. RE Relevance: Focuses heavily on extreme non-functional performance optimization and hardware-specific rendering constraints."
+    },
+    {
+      "id": 13,
+      "project": "Distributed Cloud Computing Engine for Bioinformatics",
+      "description": "A computer systems infrastructure project that pools distributed server resources to perform massive, parallel genomic sequencing and biological data processing.",
+      "justification": "Domain: Bioinformatics. Type: Cloud infrastructure. RE Relevance: Pushes the boundaries of parallel processing requirements and manages massive data throughput limitations."
+    },
+    {
+      "id": 14,
+      "project": "Embedded System Firmware for Automotive Braking",
+      "description": "Critical, low-latency firmware deployed on vehicular microcontrollers to manage real-time anti-lock braking mechanisms and ensure passenger safety.",
+      "justification": "Domain: Automotive. Type: Embedded firmware. RE Relevance: Represents a life-critical system demanding absolute deterministic performance and ISO 26262 safety compliance."
+    },
+    {
+      "id": 15,
+      "project": "Quantum Cryptography Key Distribution Network",
+      "description": "An advanced security engineering system leveraging quantum computer principles to generate and distribute unbreakable cryptographic keys for high-clearance defense networks.",
+      "justification": "Domain: Defense/Cybersecurity. Type: Cryptographic network. RE Relevance: Involves highly experimental technology, requiring the formulation of zero-trust security requirements for emerging threat vectors."
+    },
+    {
+      "id": 16,
+      "project": "High-Availability Server Cluster for E-Commerce Checkout",
+      "description": "A robust server infrastructure architecture designed to prevent downtime, manage load balancing, and secure transaction processing during peak online shopping events.",
+      "justification": "Domain: E-Commerce. Type: Infrastructure backend. RE Relevance: Requires defining strict service level agreements (SLAs) for 99.999% uptime and elastic scaling under extreme load."
+    },
+    {
+      "id": 17,
+      "project": "Real-Time Video Processing Pipeline for Security Feeds",
+      "description": "An information processing framework that ingest thousands of concurrent CCTV streams to perform motion tracking, anomaly detection, and video enhancement on the fly.",
+      "justification": "Domain: Security/Surveillance. Type: Stream processing architecture. RE Relevance: Demands massive concurrent data ingestion specifications and real-time, privacy-preserving face anonymization rules."
+    },
+    {
+      "id": 18,
+      "project": "Medical Image Retrieval System for Radiology",
+      "description": "An image processing and retrieval system that allows clinicians to rapidly search and cross-reference vast databases of MRI and X-Ray scans using visual similarity and metadata.",
+      "justification": "Domain: Healthcare. Type: Medical imaging software. RE Relevance: Requires complex interoperability standards (like DICOM) and highly precise visual search heuristics for clinical decision-making."
+    },
+    {
+      "id": 19,
+      "project": "Cryptographic Data Processing Vault for Banking",
+      "description": "A secure information processing system specifically engineered to ingest, encrypt, and store sensitive customer financial records in compliance with international banking regulations.",
+      "justification": "Domain: Banking. Type: Secure backend vault. RE Relevance: Driven almost entirely by rigid international data residency laws (e.g., GDPR, PCI-DSS) and immutable audit trail requirements."
+    },
+    {
+      "id": 20,
+      "project": "Streaming Data Analytics Engine for IoT Devices",
+      "description": "A stream processing software that handles high-throughput telemetry data from industrial Internet of Things (IoT) sensors to detect equipment wear and predict maintenance cycles.",
+      "justification": "Domain: Industrial IoT. Type: Streaming analytics backend. RE Relevance: Involves bridging legacy industrial hardware with modern cloud telemetry under harsh, intermittent network conditions."
+    },
+    {
+      "id": 21,
+      "project": "Semantic Search Algorithm for Academic Papers",
+      "description": "An information retrieval and search algorithm that understands contextual meaning and conceptual relationships to help researchers find highly relevant academic literature.",
+      "justification": "Domain: Academia/Research. Type: Search algorithm. RE Relevance: Requires defining highly abstract concepts of 'relevance' and mapping complex knowledge ontologies into testable criteria."
+    },
+    {
+      "id": 22,
+      "project": "Distributed NoSQL Database System for Social Networks",
+      "description": "A scalable database system engineered to handle the massive write-loads, graph connections, and unstructured media data generated by global social media platforms.",
+      "justification": "Domain: Social Media. Type: Database system. RE Relevance: Focuses heavily on distributed CAP theorem trade-offs, prioritizing eventual consistency and horizontal scaling requirements."
+    },
+    {
+      "id": 23,
+      "project": "Digital Identity and Credential Wallet for e-Government Services",
+      "description": "A secure, decentralized mobile application designed for citizens to store, verify, and seamlessly present official government-issued identification and digital credentials.",
+      "justification": "Domain: Government/Civic Tech. Type: Secure mobile application. RE Relevance: Entails rigorous digital identity standards, cross-border interoperability, and paramount data privacy requirements."
+    },
+    {
+      "id": 24,
+      "project": "Retail Analytics and Feature Learning Dashboard",
+      "description": "A business intelligence suite leveraging feature learning to automatically identify purchasing trends and customer segmentation from raw point-of-sale data.",
+      "justification": "Domain: Retail. Type: Business Intelligence/ML application. RE Relevance: Requires translating vague business marketing goals into concrete machine learning feature engineering requirements."
+    },
+    {
+      "id": 25,
+      "project": "Mechatronics Control System for Robotic Assembly",
+      "description": "An integrated engineering software that bridges mechanical hardware and electronic sensors to orchestrate precise movements in factory assembly line robots.",
+      "justification": "Domain: Manufacturing. Type: Mechatronics software. RE Relevance: Involves strict hardware-software co-design principles and deterministic sub-millisecond response time constraints."
+    },
+    {
+      "id": 26,
+      "project": "Real-Time Computing Kernel for Aerospace Telemetry",
+      "description": "A deterministically timed operating system kernel designed to ensure that aerospace communication and navigation tasks are processed with absolute zero-latency guarantees.",
+      "justification": "Domain: Aerospace. Type: Real-time operating system (RTOS). RE Relevance: A mission-critical system requiring mathematically provable execution times and intense fault-tolerance validation."
+    },
+    {
+      "id": 27,
+      "project": "Smart City Civil Engineering Simulation Framework",
+      "description": "A comprehensive simulator software used by urban planners to model traffic flows, utility grid loads, and environmental impacts of proposed civil engineering projects.",
+      "justification": "Domain: Civil Engineering. Type: Simulation software. RE Relevance: Needs to model highly complex, interdependent macroscopic systems with vast, non-linear parametric inputs."
+    },
+    {
+      "id": 28,
+      "project": "Blockchain-Based Smart Contract Validator",
+      "description": "A decentralized software framework that acts as a validator node on a blockchain network, ensuring the integrity, security, and execution of automated smart contracts.",
+      "justification": "Domain: Web3/Blockchain. Type: Decentralized node software. RE Relevance: Involves navigating immature technological standards and gathering requirements for trustless, immutable consensus mechanisms."
+    },
+    {
+      "id": 29,
+      "project": "Semantic Web Knowledge Graph Platform",
+      "description": "A semantic network application that connects disparate institutional data silos into a unified, machine-readable knowledge graph for automated querying and reasoning.",
+      "justification": "Domain: Information Architecture. Type: Data integration platform. RE Relevance: Focuses on unifying disjointed legacy data silos into standardized, ontology-driven formats."
+    },
+    {
+      "id": 30,
+      "project": "Decentralized Web Hosting and Filestore Network",
+      "description": "A peer-to-peer filestore protocol across the World Wide Web that distributes website hosting across participant nodes to prevent censorship and server outages.",
+      "justification": "Domain: Internet Infrastructure. Type: P2P protocol. RE Relevance: Faces unique requirements gathering challenges regarding decentralized governance, data availability, and Byzantine fault tolerance."
+    },
+    {
+      "id": 31,
+      "project": "Web Accessibility Compliance Checker",
+      "description": "A software system designed to scan web content and user interfaces automatically, ensuring they meet rigorous accessibility standards for users with visual or motor impairments.",
+      "justification": "Domain: Web Compliance. Type: Automated testing tool. RE Relevance: Driven entirely by the need to perfectly translate complex, subjective legal accessibility standards (e.g., WCAG) into rigid programmatic heuristics."
+    },
+    {
+      "id": 32,
+      "project": "Integrated Development Environment for IoT Firmware",
+      "description": "A comprehensive programming tool offering code editors, compilers, and remote debugging suites specifically tailored for developing software for low-power microcontrollers.",
+      "justification": "Domain: Developer Tools. Type: IDE software. RE Relevance: Balances optimizing complex developer ergonomics with supporting deeply constrained target hardware architectures."
+    },
+    {
+      "id": 33,
+      "project": "Automated Computer Debugging and Heuristic Analysis Tool",
+      "description": "An advanced programming tool that uses heuristic search algorithms to automatically detect, isolate, and suggest patches for memory leaks and logic flaws in enterprise codebases.",
+      "justification": "Domain: Enterprise Software. Type: Code analysis engine. RE Relevance: Involves defining requirements for analyzing highly abstract, variable codebases and safely suggesting automated modifications."
+    },
+    {
+      "id": 34,
+      "project": "Mathematical Interpolation Library for Weather Forecasting",
+      "description": "A highly optimized algorithmic software library that performs complex mathematical interpolations to fill data gaps between disparate meteorological sensor readings.",
+      "justification": "Domain: Meteorology. Type: Algorithmic library. RE Relevance: Requires the direct translation of complex scientific and mathematical models into highly optimized, resource-efficient code."
+    },
+    {
+      "id": 35,
+      "project": "Secure Pattern Matching Engine for Antivirus Scanning",
+      "description": "A string algorithm and pattern matching system designed to rapidly scan inbound files and network packets against a massive database of known malware signatures.",
+      "justification": "Domain: Cybersecurity. Type: Security scanning engine. RE Relevance: Demands ultra-fast processing speeds and easily updatable architectures to counter constantly evolving adversarial threats."
+    },
+    {
+      "id": 36,
+      "project": "Homeland Security Event Projection System",
+      "description": "A situational awareness desktop application designed for the Department of Homeland Security to monitor real-time event data and display it on large projection screens.",
+      "justification": "Representing the government defense domain, this legacy desktop application provides classic non-functional constraints regarding physical display hardware and situational awareness, serving as a strong baseline for traditional UI/UX terminology."
+    },
+    {
+      "id": 37,
+      "project": "Real Estate PDA Assistant",
+      "description": "A mobile application designed for Personal Digital Assistants (PDAs), enabling real estate agents to access property information, client details, and listings on the go.",
+      "justification": "Operating in the real estate domain, this early PDA mobile application exposes models to the historical hardware and bandwidth constraints of early smart devices, contrasting sharply with modern smartphone capabilities."
+    },
+    {
+      "id": 38,
+      "project": "Nursing Clinical Scheduling System",
+      "description": "An academic scheduling application built to manage course scheduling and clinical practice rotations for nursing students and faculty.",
+      "justification": "This academic healthcare scheduling system introduces complex, historically authentic business logic for resource allocation, helping models train on traditional administrative constraints and algorithmic requirements."
+    },
+    {
+      "id": 39,
+      "project": "Credit Card Holder Services Portal",
+      "description": "A web-based customer service and account management portal providing financial services, statement viewing, and account support for credit card holders.",
+      "justification": "Representing the financial sector, this early web portal establishes a crucial baseline for traditional web security and customer service requirements, allowing for backward-compatibility benchmarking against classic PROMISE datasets."
+    },
+    {
+      "id": 40,
+      "project": "Recycled Auto Parts Inventory System",
+      "description": "An inventory management system designed for salvage yards to track, categorize, and sell recycled automobile parts.",
+      "justification": "Set in the automotive retail domain, this inventory management system provides excellent examples of classic enterprise data constraints and traditional business rules for physical goods tracking."
+    },
+    {
+      "id": 41,
+      "project": "Enterprise DBMS and Server Management System",
+      "description": "A technical software suite used by system administrators to configure, manage, and monitor server environments and Database Management Systems (DBMS).",
+      "justification": "Focusing on core IT infrastructure, this technical software suite trains models on the stringent, traditional non-functional requirements for performance and reliability typical of pre-cloud server environments."
+    },
+    {
+      "id": 42,
+      "project": "Inventory Quantity Adjustment System",
+      "description": "A warehousing and retail software solution focused on accurately tracking stock levels and processing inventory quantity adjustments.",
+      "justification": "Operating within the warehousing and logistics domain, this traditional retail software solution is vital for demonstrating historically authentic transactional accuracy and legacy data synchronization requirements."
+    },
+    {
+      "id": 43,
+      "project": "Movie Subscription and Prepaid Card System",
+      "description": "A transaction management platform designed to handle prepaid card balances, customer accounts, and recurring physical movie rental subscriptions.",
+      "justification": "Representing the early entertainment retail sector, this transaction platform provides LLMs with exposure to physical subscription models and legacy payment processing logic, offering a stark contrast to modern streaming architectures."
+    },
+    {
+      "id": 44,
+      "project": "Sales Lead Evaluation and Assignment Platform",
+      "description": "An enterprise CRM tool aimed at capturing sales leads, evaluating their potential, and assigning them to appropriate sales representatives.",
+      "justification": "Situated in the corporate sales domain, this early enterprise CRM tool provides a baseline for traditional workflow automation and legacy business terminology used in lead evaluation."
+    },
+    {
+      "id": 45,
+      "project": "Tactical Ship Simulation Game",
+      "description": "A digital simulation PC game modeled after the classic 'Battleship' board game, featuring ship placement, grid-based targeting, and tactical gameplay.",
+      "justification": "Adding diversity through the gaming domain, this legacy PC simulation introduces non-enterprise software constraints and traditional performance requirements for interactive digital entertainment."
+    },
+    {
+      "id": 46,
+      "project": "Teleservices Call Management Platform",
+      "description": "A call center administration system designed to route incoming communications, track customer interactions, and manage teleservices agent workflows.",
+      "justification": "Operating in the telecommunications domain, this call center administration system trains models on traditional telephony integration and manual agent workflow requirements that predate modern AI-driven routing."
+    },
+    {
+      "id": 47,
+      "project": "City of Chicago Municipal Development Framework",
+      "description": "A structured software development framework and set of standardized IT guidelines created specifically for municipal applications in the City of Chicago.",
+      "justification": "Representing the municipal government sector, this administrative framework provides unique meta-requirements and standardized IT guidelines, establishing a historical baseline for software governance."
+    },
+    {
+      "id": 48,
+      "project": "Corporate Reporting and Management Dashboard",
+      "description": "An executive information system that aggregates corporate data to generate comprehensive reporting and high-level management dashboards.",
+      "justification": "Set in the corporate business intelligence domain, this executive information system demonstrates legacy data aggregation and reporting requirements, serving as a historical counterpoint to modern big data cloud tools."
+    },
+    {
+      "id": 49,
+      "project": "Fantasy League Management Platform",
+      "description": "A web-based sports application allowing fantasy league commissioners and team owners to draft players, manage rosters, and compute league statistics.",
+      "justification": "Focusing on the sports entertainment domain, this early web-based application is critical for benchmarking how models handle traditional concurrency and user interaction requirements for consumer-facing portals."
+    },
+    {
+      "id": 50,
+      "project": "RFS Financial Budgeting System",
+      "description": "A corporate intranet financial software application (RFS) utilized for processing income streams, calculating expenses, and applying complex corporate budget formulas.",
+      "justification": "Operating in the corporate finance domain, this intranet application provides historically authentic, highly specific legacy constraints—such as 800x600 resolution standards—ideal for backward-compatibility benchmarking."
+    }
+  ]
